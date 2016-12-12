@@ -16,7 +16,7 @@ group :production do
   gem 'rails_12factor', '0.0.3'
 end
 
-
+gem 'paperclip', '~> 5.1'
 
 
 # Use Puma as the app server
